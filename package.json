@@ -1,5 +1,5 @@
 {
-  "name": "kaizokupuffball/unrar",
+  "name": "@kaizokupuffball/unrar",
   "version": "1.0.0",
   "description": "uncompress rar file",
   "main": "index.js",
